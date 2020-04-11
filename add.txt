@@ -1077,7 +1077,7 @@ X战警系列,http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001
 走进艺术,http://stream.guihet.com/migu/index.php?id=626157526
 最佳搭档,http://aldirect.hls.huya.com/huyalive/30765679-2689675756-11552069408864075776-3048991624-10057-A-0-1_1200.m3u8
 最强综艺趴,http://stream.guihet.com/migu/index.php?id=629942228
-日本,#genre
+日本,#genre#
 フジテレビNEXT,vjms://122.155.180.8:8500:5021/live/cid=51#vjms://198.255.9.11:8500:5021/live/cid=51#
 MTV,vjms://122.155.180.8:8500:5021/live/cid=52#vjms://198.255.9.11:8500:5021/live/cid=52#
 日テレNEWS24,vjms://122.155.180.8:8500:5021/live/cid=53#vjms://198.255.9.11:8500:5021/live/cid=53#
